@@ -2,7 +2,7 @@
 
 
 import pywhatkit #Instalar com o comando: pip install pywhatkit
-from datetime import datetime #Instalar com o comando: pip install datetime
+from datetime import datetime 
 
 
 
